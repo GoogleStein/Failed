@@ -1,2 +1,2 @@
-# Google_Stein.github.io
+# GoogleStein.github.io
 Test Website
